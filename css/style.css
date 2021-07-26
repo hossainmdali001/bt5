@@ -1,0 +1,17 @@
+.header, .hero, .body,.bar, .footer{
+    background-color: rgb(105, 29, 228);
+    margin-bottom: 20px;
+}
+.box{
+    margin: 10px 0px;
+    min-height: 90px;
+    background:teal;
+    font-size: 30px;
+    color: #fff;
+}
+.ayan{
+    background-color: yellowgreen;
+}
+.ali{
+    background-color: violet;
+}
